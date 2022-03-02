@@ -3,15 +3,18 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Description
-A handy web based text editor that allows you to install an app!
+A handy web based text editor that allows you to install an app! 
 
-## Tests
+
+https://user-images.githubusercontent.com/75141165/156315162-eec0a2c3-3d3e-427c-95f1-4521b6d36ee8.mp4
+
+
 
 ## How to use
-Run npm run build and  npm run start:dev
+### Run npm run build and  npm run start:dev
 
 ## Dependencies
-npm install
+### npm install
 
 ## How to contribute
 Please let me know if you want to make any changes!
