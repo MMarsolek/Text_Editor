@@ -25,9 +25,3 @@ warmStrategyCache({
 });
 
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
-
-// TODO: Implement asset caching
-registerRoute(
-  navigator.serviceWorker.register('ScriptsFolder/subFolder/sw.js')
-
-);
